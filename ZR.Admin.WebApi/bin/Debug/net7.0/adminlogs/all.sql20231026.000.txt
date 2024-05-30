@@ -1,0 +1,18 @@
+2023-10-26 14:00:27.3325    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+
+2023-10-26 14:27:32.2724    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+
+2023-10-26 14:36:37.4625    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+
+2023-10-26 15:11:45.8247    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+
+2023-10-26 15:13:07.7317    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+
+2023-10-26 18:44:11.2556    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+

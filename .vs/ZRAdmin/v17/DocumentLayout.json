@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u9879\u76EE\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B35D73B1-2E22-4636-B88B-10C5E6D8E524}|ZR.Model\\ZR.Model.csproj|d:\\\u9879\u76EE\\_github\\bisav2\\zradmin.netcore\\zr.model\\dts\\dtstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35D73B1-2E22-4636-B88B-10C5E6D8E524}|ZR.Model\\ZR.Model.csproj|solutionrelative:zr.model\\dts\\dtstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ADA3C1-148D-4727-A718-79447D9B5EEE}|ZR.Service\\ZR.Service.csproj|d:\\\u9879\u76EE\\_github\\bisav2\\zradmin.netcore\\zr.service\\dts\\virtualtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ADA3C1-148D-4727-A718-79447D9B5EEE}|ZR.Service\\ZR.Service.csproj|solutionrelative:zr.service\\dts\\virtualtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5497BB4-B0C1-4794-9FAE-163F626EC399}|ZR.Admin.WebApi\\ZR.Admin.WebApi.csproj|d:\\\u9879\u76EE\\_github\\bisav2\\zradmin.netcore\\zr.admin.webapi\\controllers\\dts\\virtualtaskcontrroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5497BB4-B0C1-4794-9FAE-163F626EC399}|ZR.Admin.WebApi\\ZR.Admin.WebApi.csproj|solutionrelative:zr.admin.webapi\\controllers\\dts\\virtualtaskcontrroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5497BB4-B0C1-4794-9FAE-163F626EC399}|ZR.Admin.WebApi\\ZR.Admin.WebApi.csproj|d:\\\u9879\u76EE\\_github\\bisav2\\zradmin.netcore\\zr.admin.webapi\\controllers\\dts\\taskgroupcontrroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5497BB4-B0C1-4794-9FAE-163F626EC399}|ZR.Admin.WebApi\\ZR.Admin.WebApi.csproj|solutionrelative:zr.admin.webapi\\controllers\\dts\\taskgroupcontrroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35D73B1-2E22-4636-B88B-10C5E6D8E524}|ZR.Model\\ZR.Model.csproj|d:\\\u9879\u76EE\\_github\\bisav2\\zradmin.netcore\\zr.model\\dts\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35D73B1-2E22-4636-B88B-10C5E6D8E524}|ZR.Model\\ZR.Model.csproj|solutionrelative:zr.model\\dts\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskGroupContrroller.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\Controllers\\DTS\\TaskGroupContrroller.cs",
+              "RelativeDocumentMoniker": "ZR.Admin.WebApi\\Controllers\\DTS\\TaskGroupContrroller.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\Controllers\\DTS\\TaskGroupContrroller.cs",
+              "RelativeToolTip": "ZR.Admin.WebApi\\Controllers\\DTS\\TaskGroupContrroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-23T09:22:52.701Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Model\\DTS\\DTO\\TaskDto.cs",
+              "RelativeDocumentMoniker": "ZR.Model\\DTS\\DTO\\TaskDto.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Model\\DTS\\DTO\\TaskDto.cs",
+              "RelativeToolTip": "ZR.Model\\DTS\\DTO\\TaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T06:16:52.175Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VirtualTaskContrroller.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\Controllers\\DTS\\VirtualTaskContrroller.cs",
+              "RelativeDocumentMoniker": "ZR.Admin.WebApi\\Controllers\\DTS\\VirtualTaskContrroller.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\Controllers\\DTS\\VirtualTaskContrroller.cs",
+              "RelativeToolTip": "ZR.Admin.WebApi\\Controllers\\DTS\\VirtualTaskContrroller.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:00:39.51Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DtsTask.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Model\\DTS\\DtsTask.cs",
+              "RelativeDocumentMoniker": "ZR.Model\\DTS\\DtsTask.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Model\\DTS\\DtsTask.cs",
+              "RelativeToolTip": "ZR.Model\\DTS\\DtsTask.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAiwJUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:02:07.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VirtualTaskService.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Service\\DTS\\VirtualTaskService.cs",
+              "RelativeDocumentMoniker": "ZR.Service\\DTS\\VirtualTaskService.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Service\\DTS\\VirtualTaskService.cs*",
+              "RelativeToolTip": "ZR.Service\\DTS\\VirtualTaskService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:37:13.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

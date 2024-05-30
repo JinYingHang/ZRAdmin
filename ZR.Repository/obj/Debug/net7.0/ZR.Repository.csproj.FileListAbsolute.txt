@@ -1,0 +1,17 @@
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\bin\Debug\net7.0\ZR.Repository.deps.json
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\bin\Debug\net7.0\ZR.Repository.dll
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\bin\Debug\net7.0\ZR.Repository.pdb
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\bin\Debug\net7.0\Infrastructure.dll
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\bin\Debug\net7.0\ZR.Model.dll
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\bin\Debug\net7.0\Infrastructure.pdb
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\bin\Debug\net7.0\ZR.Model.pdb
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\obj\Debug\net7.0\ZR.Repository.csproj.AssemblyReference.cache
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\obj\Debug\net7.0\ZR.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\obj\Debug\net7.0\ZR.Repository.AssemblyInfoInputs.cache
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\obj\Debug\net7.0\ZR.Repository.AssemblyInfo.cs
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\obj\Debug\net7.0\ZR.Repository.csproj.CoreCompileInputs.cache
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\obj\Debug\net7.0\ZR.Repository.csproj.CopyComplete
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\obj\Debug\net7.0\ZR.Repository.dll
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\obj\Debug\net7.0\refint\ZR.Repository.dll
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\obj\Debug\net7.0\ZR.Repository.pdb
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\ZR.Repository\obj\Debug\net7.0\ref\ZR.Repository.dll

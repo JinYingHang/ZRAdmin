@@ -1,0 +1,20 @@
+2023-10-13 10:37:55.9626    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+
+2023-10-13 10:48:42.7717    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+
+2023-10-13 13:27:46.2063    
+ 执行SQL出错：22001: 对于可变字符类型来说，值太长了(32)
+2023-10-13 14:04:33.1882    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+
+2023-10-13 15:47:30.5897    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+
+2023-10-13 16:47:44.3382    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+
+2023-10-13 17:08:38.7114    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+

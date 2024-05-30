@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\CurdForm.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\CurdForm.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\MySqlTemplate.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\MySqlTemplate.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\QueryForm.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\QueryForm.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\SqlTemplate.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\SqlTemplate.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\TableList.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\TableList.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\TplControllers.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\TplControllers.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\TplDto.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\TplDto.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\TplIService.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\TplIService.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\TplModel.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\TplModel.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\TplRepository.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\TplRepository.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\TplService.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\TplService.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\TplTreeVue.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\TplTreeVue.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\TplVue.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\TplVue.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\TplVueApi.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\TplVueApi.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\TplVueSelect.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\TplVueSelect.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\v3\\TreeVue.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\v3\\TreeVue.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\CodeGenTemplate\\v3\\Vue.txt",
+      "PackagePath": "staticwebassets\\CodeGenTemplate\\v3\\Vue.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\logo.txt",
+      "PackagePath": "staticwebassets\\logo.txt"
+    },
+    {
+      "Id": "D:\\项目\\_GitHub\\BISAv2\\ZRAdmin.NetCore\\ZR.Admin.WebApi\\wwwroot\\uploads\\20230407\\CCC34B7AFB6A002B.log",
+      "PackagePath": "staticwebassets\\uploads\\20230407\\CCC34B7AFB6A002B.log"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.ZR.Admin.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.ZR.Admin.WebApi.props",
+      "PackagePath": "build\\ZR.Admin.WebApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ZR.Admin.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\ZR.Admin.WebApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.ZR.Admin.WebApi.props",
+      "PackagePath": "buildTransitive\\ZR.Admin.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

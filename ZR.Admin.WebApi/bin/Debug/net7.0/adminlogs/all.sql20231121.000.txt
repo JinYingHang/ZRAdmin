@@ -1,0 +1,9 @@
+2023-11-21 13:16:39.4138    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+
+2023-11-21 15:24:55.9441    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+
+2023-11-21 16:38:31.3291    
+ 【db0 SQL语句】SELECT "id","name","jobgroup","cron","assemblyname","classname","remark","runtimes","begintime","endtime","triggertype","intervalsecond","isstart","jobparams","create_by","create_time","update_by","update_time","lastruntime","apiurl","tasktype","sqltext","requestmethod" FROM "sys_tasks"  
+

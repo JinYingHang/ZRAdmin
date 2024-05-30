@@ -1,0 +1,25 @@
+2022-11-17 11:28:25,773: ERROR	pgadmin:	'ServerManager' object has no attribute 'user_info'
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\pgAdmin 4\v4\web\pgadmin\browser\server_groups\servers\__init__.py", line 848, in create
+    user = manager.user_info
+AttributeError: 'ServerManager' object has no attribute 'user_info'
+2022-11-17 11:30:01,561: ERROR	pgadmin:	'ServerManager' object has no attribute 'user_info'
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\pgAdmin 4\v4\web\pgadmin\browser\server_groups\servers\__init__.py", line 848, in create
+    user = manager.user_info
+AttributeError: 'ServerManager' object has no attribute 'user_info'
+2022-11-17 11:30:41,602: ERROR	pgadmin:	'ServerManager' object has no attribute 'user_info'
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\pgAdmin 4\v4\web\pgadmin\browser\server_groups\servers\__init__.py", line 848, in create
+    user = manager.user_info
+AttributeError: 'ServerManager' object has no attribute 'user_info'
+2022-11-17 11:32:57,373: ERROR	pgadmin:	'ServerManager' object has no attribute 'user_info'
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\pgAdmin 4\v4\web\pgadmin\browser\server_groups\servers\__init__.py", line 848, in create
+    user = manager.user_info
+AttributeError: 'ServerManager' object has no attribute 'user_info'
+2022-11-17 11:33:06,034: ERROR	pgadmin:	'ServerManager' object has no attribute 'user_info'
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\pgAdmin 4\v4\web\pgadmin\browser\server_groups\servers\__init__.py", line 848, in create
+    user = manager.user_info
+AttributeError: 'ServerManager' object has no attribute 'user_info'

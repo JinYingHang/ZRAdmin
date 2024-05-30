@@ -1,0 +1,12 @@
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\项目\_GitHub\BISAv2\ZRAdmin.NetCore\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

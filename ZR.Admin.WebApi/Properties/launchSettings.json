@@ -1,0 +1,30 @@
+{
+  "profiles": {
+    "ZR.Admin.WebApi": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": ""
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:8888"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "launchUrl": "http://localhost:8888/",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "",
+        "ASPNETCORE_URLS": "http://localhost:8888"
+      },
+      "distributionName": ""
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:63521",
+      "sslPort": 44395
+    }
+  }
+}
